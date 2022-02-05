@@ -20,4 +20,4 @@ Esse é um programa codificador de Vogal, todas as vogais são substituídas por
 <p>O "Botão-2" é o responsavel por descriptografar uma criptografia existente no texto.</p>
 <h3>Botão-3</h3>
 <p>O "Botão-3" é o responsavel por copiar o texto criptogradado ou descriptografado.</p>
-<img src="![git-1](https://user-images.githubusercontent.com/78456074/152627868-a5a53b2c-5642-4f55-a101-79c039522fdb.gif)" width="400" height="400"/>
+<img src="![git-1](https://user-images.githubusercontent.com/78456074/152627868-a5a53b2c-5642-4f55-a101-79c039522fdb.gif)"/>
