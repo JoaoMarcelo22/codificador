@@ -25,11 +25,14 @@ Esse é um programa codificador de Vogal, todas as vogais são substituídas por
 <h2>Comandos - JS.<h2/>
  <p>O primeiro comando vem do "Botão-1", após inserir o texto e clicar no botão, ativaremos o "onclick" que levará para a Function criptografar(), dentro dessa função acontece algumas coisas; </p>
 <br>
-  <ul>
+<ul>
     <li>A primeira é o recebimento do texto e incrementando uma Variavel:</li>
    <img src="https://user-images.githubusercontent.com/78456074/152629158-eec4cc93-e332-40cb-8b7a-015da8338d9a.png" width="650"/>
     <li>A segunda é a criptografia do texto utilizando o comando Replace:</li>
    <img src="https://user-images.githubusercontent.com/78456074/152629189-89c4a6fc-435d-4d09-9059-ee43a0c8b415.png" width="650"/>
     <li>A terceira é o envio do texto já modificado para o Value do "Input-2":</li>
    <img src="https://user-images.githubusercontent.com/78456074/152629192-8664e47e-070c-44b6-86d0-5afdbc650820.png" width="650"/>
+</ul>
+<img src="https://user-images.githubusercontent.com/78456074/152629480-1c58091a-6412-4fd2-80c0-ca102c5564a0.gif"/>
+  
 
