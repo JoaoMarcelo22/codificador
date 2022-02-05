@@ -10,6 +10,7 @@ Esse é um programa codificador de Vogal, todas as vogais são substituídas por
   <li>Botão-2</li>
   <li>Botão-3</li>
 </ul>
+<img src="https://user-images.githubusercontent.com/78456074/152628499-97087a66-e04d-4425-a58a-456f99eff10f.gif" width="650" height="400"/>
 <h3>Input-1</h3>
 <p>O "Input-1" é formado por um Input Type=Text, esse é o campo de interação com o usuario, onde deverá ser digitado o texto a ser criptografado.</p>
 <h3>Input-2</h3>
@@ -20,4 +21,4 @@ Esse é um programa codificador de Vogal, todas as vogais são substituídas por
 <p>O "Botão-2" é o responsavel por descriptografar uma criptografia existente no texto.</p>
 <h3>Botão-3</h3>
 <p>O "Botão-3" é o responsavel por copiar o texto criptogradado ou descriptografado.</p>
-<img src="https://user-images.githubusercontent.com/78456074/152628499-97087a66-e04d-4425-a58a-456f99eff10f.gif" width="650" height="400"/>
+
