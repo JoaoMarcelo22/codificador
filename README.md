@@ -35,6 +35,7 @@ Esse é um programa codificador de Vogal, todas as vogais são substituídas por
     <li>A terceira é o envio do texto já modificado para o Value do "Input-2":</li>
    <img src="https://user-images.githubusercontent.com/78456074/152629192-8664e47e-070c-44b6-86d0-5afdbc650820.png" width="650"/>
   </ul>
+  <br>
   <img src="https://user-images.githubusercontent.com/78456074/152629480-1c58091a-6412-4fd2-80c0-ca102c5564a0.gif" width="650" height="400"/>
 </ol>
 
