@@ -23,13 +23,10 @@ Esse é um programa codificador de Vogal, todas as vogais são substituídas por
 <p>O "Botão-3" é o responsavel por copiar o texto criptogradado ou descriptografado.</p>
 <br>
 <h2>Comandos - JS.<h2/>
-<ol>
-  <h3><li>Botão-1</li></h3>
-</ol>
+  <h3>Botão-1</h3>
  <p>O primeiro comando vem do "Botão-1", após inserir o texto e clicar no botão, ativaremos o "onclick" que levará para a Function criptografar(), dentro dessa função acontece algumas coisas; </p>
   <br>
-  <ul>
-    <li><h3>A primeira é o recebimento do texto e incrementando uma Variavel:</h3></li>
+    <h4>A primeira é o recebimento do texto e incrementando uma Variavel:</h4>
    <img src="https://user-images.githubusercontent.com/78456074/152629158-eec4cc93-e332-40cb-8b7a-015da8338d9a.png" width="650"/>
     <li>A segunda é a criptografia do texto utilizando o comando Replace:</li>
    <img src="https://user-images.githubusercontent.com/78456074/152629189-89c4a6fc-435d-4d09-9059-ee43a0c8b415.png" width="650"/>
